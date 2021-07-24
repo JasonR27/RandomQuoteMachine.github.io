@@ -2,6 +2,8 @@ body {
   display: grid;
   justify-content: center;  
   align-items: center;
+  background-color: black;
+  color: purple;
 }
 
 #quotestand {
@@ -9,6 +11,8 @@ body {
   background-color: white;
   box-shadow: 5px 10px gray;
   border-radius: 10px;
+  margin-top: 35%;
+  padding: 1rem;
 }
 
 #QuotePage {
@@ -33,14 +37,14 @@ body {
 }
 
 #icons {
-  background-color: white;
-  color: #bc5a45;
+  background-color: white;  
   margin: 10px;
 }
 
 #tw-icon,
 #tb-icon {
   margin: 10px;
+  color: purple;
 }
 
 #sign {

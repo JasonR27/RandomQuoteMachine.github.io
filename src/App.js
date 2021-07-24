@@ -66,9 +66,7 @@ class RandomQuoteMachine extends React.Component {
       $("#tw-icon").css("color", rancolor); 
       $("#tb-icon").css("color", rancolor);
       $("h2").css("fontSize", "50px");
-    });
-  
-  
+    }); 
   }  
   
   render() {
@@ -143,29 +141,5 @@ const ran = Math.floor(Math.random() * (quotecolor.length - 1 - 0) + 0);
 const rancolor = quotecolor[ran];
 
 console.log(rancolor);
-/**
-$(document).ready(function () {
-  $("body").css("background-color", rancolor);
-  $("#quotestand").css("color", rancolor);
-  $("button").css("background-color", rancolor);
-  $("button").css("color", "white");
-  $("#icons").css("color", rancolor);
-  $("#tw-icon").css("color", rancolor);
-  $("#tb-icon").css("color", rancolor);
-  $("h2").css("fontSize", "50px");
-});
- */
+
 export default AppWrapper
-
-
-
-
-
-
-
-
-
-
-
-
-
