@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RandomQuoteMachine.github.io/static/css/main.55ff611b.chunk.css",
-    "main.js": "/RandomQuoteMachine.github.io/static/js/main.a640e375.chunk.js",
-    "main.js.map": "/RandomQuoteMachine.github.io/static/js/main.a640e375.chunk.js.map",
+    "main.js": "/RandomQuoteMachine.github.io/static/js/main.42df6d64.chunk.js",
+    "main.js.map": "/RandomQuoteMachine.github.io/static/js/main.42df6d64.chunk.js.map",
     "runtime-main.js": "/RandomQuoteMachine.github.io/static/js/runtime-main.1a2c43a8.js",
     "runtime-main.js.map": "/RandomQuoteMachine.github.io/static/js/runtime-main.1a2c43a8.js.map",
     "static/js/2.76e3ee69.chunk.js": "/RandomQuoteMachine.github.io/static/js/2.76e3ee69.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.1a2c43a8.js",
     "static/js/2.76e3ee69.chunk.js",
     "static/css/main.55ff611b.chunk.css",
-    "static/js/main.a640e375.chunk.js"
+    "static/js/main.42df6d64.chunk.js"
   ]
 }
